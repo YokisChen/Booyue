@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="ffmpeg-macosx-x86_64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ffmpeg-macosx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ffmpeg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javacpp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javacv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-macosx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

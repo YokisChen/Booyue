@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc encoding="UTF-8" docencoding="GBK" access="public" author="true" classpath="lib/httpmime-4.3.6.jar;C:\Program Files\eclipsework\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;lib/httpcore-4.3.3.jar;../../../../../unionmatch/lib/fastjson-1.1.24.jar;C:\Program Files\eclipsework\plugins\org.junit_4.11.0.v201303080030\junit.jar;../../../../../unionmatch/lib/commons-codec-1.7.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.test,com.eyekey.conf,com.eyekey.exception,com.eyekey.http" source="1.6" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>

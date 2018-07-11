@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Built-By: leo
+Build-Jdk: 1.6.0_27
+Implementation-Version: 0.9
